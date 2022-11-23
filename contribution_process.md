@@ -29,4 +29,4 @@ If you feel confident, you can also directly submit a pull request to the reposi
 We try to review (and answer to) new issues and PRs on a daily basis.
 
 We may ask you to improve your PR if necessary. Once ready, it will be merged by one of the
-core comitters.
+core committers.
