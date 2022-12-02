@@ -30,3 +30,5 @@ We try to review (and answer to) new issues and PRs on a daily basis.
 
 We may ask you to improve your PR if necessary. Once ready, it will be merged by one of the
 core committers.
+
+Every major functionality addition or change must be covered by a test added to the repositories automated test suite. Please see [example](https://github.com/claimed-framework/component-library/blob/master/component-library/run_tests.py).
